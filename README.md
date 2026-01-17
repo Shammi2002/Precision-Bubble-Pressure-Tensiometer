@@ -6,4 +6,5 @@ The measurement of surface tension is a fundamental requirement across a diverse
 To address these challenges, this project presents the design and implementation of a Precision Surface Tension Instrument based on the Maximum Bubble Pressure Method. Developed as part of the EE322 Embedded Systems module, the system leverages the ATmega328P microcontroller to provide an automated, high-precision alternative to traditional manual measurement techniques.
 
 By integrating real-time data acquisition from pressure and depth sensors with low-level software optimization in Assembly language, the instrument achieves high processing efficiency and reliability. The solution is specifically engineered to meet the needs of research laboratories and quality control environments, offering a sophisticated yet cost-effective tool for liquid property analysis and process optimization.
+
 [Project _roposal_Group_11.pdf](https://github.com/user-attachments/files/24689488/Project._roposal_Group_11.pdf)
