@@ -7,5 +7,11 @@ To address these challenges, this project presents the design and implementation
 
 By integrating real-time data acquisition from pressure and depth sensors with low-level software optimization in Assembly language, the instrument achieves high processing efficiency and reliability. The solution is specifically engineered to meet the needs of research laboratories and quality control environments, offering a sophisticated yet cost-effective tool for liquid property analysis and process optimization.
 
+![1dfe57cb-f55c-46f3-a8f2-21a2657b1a18](https://github.com/user-attachments/assets/939e8d98-0358-4a8c-a3e2-10ba72df4096)
+
 
 [Project _proposal_Group_11.pdf](https://github.com/user-attachments/files/24689494/Project._proposal_Group_11.pdf)
+
+<p align="center">
+  <img src="path/to/main-image.png" alt="Project Banner" width="600">
+</p>
