@@ -11,7 +11,3 @@ By integrating real-time data acquisition from pressure and depth sensors with l
 
 
 [Project _proposal_Group_11.pdf](https://github.com/user-attachments/files/24689494/Project._proposal_Group_11.pdf)
-
-<p align="center">
-  <img src="path/to/main-image.png" alt="Project Banner" width="600">
-</p>
